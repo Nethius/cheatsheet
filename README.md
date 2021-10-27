@@ -16,3 +16,5 @@
 * [Базы данных](https://github.com/Nethius/cheatsheet/blob/main/database.md)
 * [Паттерны](https://github.com/Nethius/cheatsheet/blob/main/patterns.md)
 * [Безопасность](https://github.com/Nethius/cheatsheet/blob/main/security.md)
+* [git](https://github.com/Nethius/cheatsheet/blob/main/git.md)
+* [Сети](https://github.com/Nethius/cheatsheet/blob/main/network.md)
