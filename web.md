@@ -1,7 +1,7 @@
 1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
 1. [Jwt](#1)
 1. [REST](#2)
-1. [RPC](#3)
+1. [RPC/gRPC](#3)
 1. [Клиент-серверная архитектура](#4)
 1. [Балансировщики](#5)
 1. [](#6)
