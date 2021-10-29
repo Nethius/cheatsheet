@@ -13,7 +13,7 @@
 
 * **Jwt**: <a name="1"></a> #TODO
 * **REST**: <a name="2"></a> #TODO
-* **RPC**: <a name="3"></a> #TODO
+* **RPC**: <a name="3"></a> Remote procedure call
 * **Клиент-серверная архитектура**: <a name="4"></a>
 * **Балансировщики**: <a name="5"></a>
 * ****: <a name="6"></a>
