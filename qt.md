@@ -1,7 +1,7 @@
 1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
 1. [Event loop](#1)
 1. [Delete later](#2)
-1. [](#3)
+1. [Работа с многопоточностью в Qt](#3)
 1. [](#4)
 1. [](#5)
 1. [](#6)
@@ -13,7 +13,7 @@
 
 * **Event loop**: <a name="1"></a> #TODO
 * **Delete later**: <a name="2"></a> #TODO
-* ****: <a name="3"></a>
+* **Работа с многопоточностью в Qt**: <a name="3"></a> https://habr.com/ru/post/467261/
 * ****: <a name="4"></a>
 * ****: <a name="5"></a>
 * ****: <a name="6"></a>

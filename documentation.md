@@ -1,6 +1,6 @@
 1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
-1. [Кортежи](#1)
-1. [](#2)
+1. [UML](#1)
+1. [Actor model](#2)
 1. [](#3)
 1. [](#4)
 1. [](#5)
@@ -11,8 +11,8 @@
 1. [](#10)
 1. [](#11)
 
-* **Кортежи**: <a name="1"></a> #TODO https://habr.com/ru/post/330034/
-* ****: <a name="2"></a> 
+* **UML**: <a name="1"></a> 
+* **Actor model**: <a name="2"></a> 
 * ****: <a name="3"></a> 
 * ****: <a name="4"></a>
 * ****: <a name="5"></a>

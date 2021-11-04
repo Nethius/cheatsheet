@@ -18,3 +18,4 @@
 * [Безопасность](https://github.com/Nethius/cheatsheet/blob/main/security.md)
 * [git](https://github.com/Nethius/cheatsheet/blob/main/git.md)
 * [Сети](https://github.com/Nethius/cheatsheet/blob/main/network.md)
+* [Документирование](https://github.com/Nethius/cheatsheet/blob/main/documentation.md)
