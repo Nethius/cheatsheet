@@ -33,8 +33,8 @@
 1. [variadic templates](#32)
 1. [Корутины в с++](#33)
 1. [Precompiled headers](#34)
-1. [](#35)
-1. [](#36)
+1. [Explicit-конструктор](#35)
+1. [auto и decltype](#36)
 1. [](#37)
 1. [](#38)
 1. [](#39)
@@ -130,8 +130,10 @@
 * **variadic templates**: <a name="32"></a> https://habr.com/ru/post/248897/
 * **Корутины в с++**: <a name="33"></a> https://habr.com/ru/post/520756/ https://habr.com/ru/company/yandex_praktikum/blog/555704/
 * **Precompiled headers**: <a name="34"></a> https://habr.com/ru/company/pvs-studio/blog/227521/
-* ****: <a name="35"></a>  
-* ****: <a name="36"></a>  
+* **Explicit-конструктор**: <a name="35"></a>  
+* **auto и decltype**: <a name="36"></a>  
+    * auto -
+    * decltype - 
 * ****: <a name="37"></a>  
 * ****: <a name="38"></a>  
 * ****: <a name="39"></a>  
