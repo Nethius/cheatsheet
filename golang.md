@@ -1,4 +1,4 @@
-1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
+1. [Оглавление](README.md)
 1. [Горутины](#1)
 1. [Каналы](#2)
 1. [Мапы](#3)

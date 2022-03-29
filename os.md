@@ -1,4 +1,4 @@
-1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
+1. [Оглавление](README.md)
 1. [SIMD](#1)
 1. [Виртуальная память с точки зрения ОС](#2)
 1. [Межпроцессное взаимодействие (IPC)](#3)

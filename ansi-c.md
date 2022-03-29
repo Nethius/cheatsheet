@@ -1,4 +1,4 @@
-1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
+1. [Оглавление](README.md)
 1. [external](#1)
 1. [volotile](#2)
 1. [](#3)

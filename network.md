@@ -1,4 +1,4 @@
-1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
+1. [Оглавление](README.md)
 1. [Уровни модели OSI](#1)
 1. [Уровни стека TCP/IP](#2)
 1. [TCP vs UDP](#3)

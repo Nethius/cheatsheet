@@ -1,4 +1,4 @@
-1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
+1. [Оглавление](README.md)
 1. [SPI](#1)
 1. [DMA](#2)
 1. [I2C](#3)

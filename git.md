@@ -1,5 +1,5 @@
-1. [Оглавление](https://github.com/Nethius/cheatsheet/blob/main/README.md)
-1. [](#1)
+1. [Оглавление](README.md)
+1. [git bisect](#1)
 1. [](#2)
 1. [](#3)
 1. [](#4)
@@ -11,7 +11,7 @@
 1. [](#10)
 1. [](#11)
 
-* ****: <a name="1"></a> 
+* **git bisect**: <a name="1"></a> 
 * ****: <a name="2"></a> 
 * ****: <a name="3"></a> 
 * ****: <a name="4"></a>
