@@ -14,7 +14,7 @@
 * **SPI**: <a name="1"></a> https://habr.com/ru/post/123145/ https://radioprog.ru/post/177
 * **DMA**: <a name="2"></a> https://habr.com/ru/post/37455/
 * **I2C**: <a name="3"></a> http://easyelectronics.ru/interface-bus-iic-i2c.html https://itt-ltd.com/reference/ref_i2c.html
-* ****: <a name="4"></a>
+* **Вектор прерываний**: <a name="4"></a>
 * ****: <a name="5"></a>
 * ****: <a name="6"></a>
 * ****: <a name="7"></a>
