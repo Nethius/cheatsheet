@@ -55,5 +55,5 @@
     * Controller - реагирует на действия пользователя, оповещая модель о необходимости изменения.
 * **Внедрение зависимости (Dependency injection, DI)**: <a name="8"></a>
 * **DRY**: <a name="9"></a>
-* ****: <a name="10"></a>
+* **data driving development**: <a name="10"></a>
 * ****: <a name="11"></a>

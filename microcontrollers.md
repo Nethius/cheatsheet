@@ -15,8 +15,8 @@
 * **DMA**: <a name="2"></a> https://habr.com/ru/post/37455/
 * **I2C**: <a name="3"></a> http://easyelectronics.ru/interface-bus-iic-i2c.html https://itt-ltd.com/reference/ref_i2c.html
 * **Вектор прерываний**: <a name="4"></a>
-* ****: <a name="5"></a>
-* ****: <a name="6"></a>
+* **Типы прерываний**: <a name="5"></a>
+* **Watch dogs**: <a name="6"></a>
 * ****: <a name="7"></a>
 * ****: <a name="8"></a>
 * ****: <a name="9"></a>
